@@ -27,6 +27,8 @@ Neste projeto foi desenvolvido um _chat_ online e ao utilizar essa aplicação o
  - Visualizar os usuários online no momento;
  - Alterar o nome de usuário no chat em tempo real;
 
+<p align="center"><img src="https://socket.io/images/logo.svg" alt="node" width="10%"></img></p>
+
 # Requisitos do projeto
 
 ## Lista de Requisitos
