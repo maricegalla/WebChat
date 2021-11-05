@@ -1,16 +1,10 @@
-# Boas vindas ao repositório do projeto WebChat!
+# Bem vindos ao repositório do projeto WebChat!
 
 # Sumário
 
 - [Habilidades](#habilidades)
 - [O que foi desenvolvido](#o-que-foi-desenvolvido)
 - [Requisitos do projeto](#requisitos-do-projeto)
-  - [Lista de Requisitos](#lista-de-requisitos)
-    `Requisitos Obrigatórios`
-    - [1 - Crie um back-end para conexão simultaneamente de clientes e troca de mensagens em chat público](#1---crie-um-back-end-para-conexão-simultânea-de-clientes-e-troca-de-mensagens-em-chat-público)
-    - [2 - Crie um frontend para que as pessoas interajam com o chat](#2---crie-um-frontend-para-que-as-pessoas-interajam-com-o-chat)
-    - [3 - Elabore o histórico do chat para que as mensagens persistam](#3---elabore-o-histórico-do-chat-para-que-as-mensagens-persistam)
-    - [4 - Informe a todos os clientes quem está online no momento](#4---informe-a-todos-os-clientes-quem-está-online-no-momento)
 
 ---
 
